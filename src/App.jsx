@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import liff from "@line/liff";
 import "./App.css";
 //import ShootingGame from "./ShootingGame";
+//import ShoppingListApp from "./Shopping";
 import ShoppingListApp from "./Shopping";
 
 
